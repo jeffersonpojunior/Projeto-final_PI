@@ -1,1 +1,4 @@
-Compilation guide for the game
+Compilation guide:
+
+make all
+./GameName

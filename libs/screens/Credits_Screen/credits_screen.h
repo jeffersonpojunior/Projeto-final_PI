@@ -1,0 +1,5 @@
+#ifndef CREDITS_SCREEN_H
+#define CREDITS_SCREEN_H
+
+
+#endif /* CREDITS_SCREEN_H */
